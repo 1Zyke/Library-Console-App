@@ -3,7 +3,8 @@ Library Console App with Python
 
 How to run:
 
-- import python-csv in the console
+- install python-csv in the console
+- pip install python-csv
 - python main.py
 
 Enjoy the app :)
